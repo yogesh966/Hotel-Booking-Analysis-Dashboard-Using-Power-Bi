@@ -1,4 +1,5 @@
  ## **Transforming EDA Projects to Dashboards**
+ - [Dashboard](https://drive.google.com/file/d/1X9co1SI0P8S44_yV_8pQPxXMVpfJvRg9/view?usp=drive_link)
 
 **Create PowerBI Dashboard from the same dataset on which EDA was performed i,e Hotel Bookings Analysis capstone project.**
 
